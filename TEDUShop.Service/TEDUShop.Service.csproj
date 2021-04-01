@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\TEDUShop.Common\TEDUShop.Common.csproj" />
+    <ProjectReference Include="..\TEDUShop.Data\TEDUShop.Data.csproj" />
+    <ProjectReference Include="..\TEDUShop.Model\TEDUShop.Model.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

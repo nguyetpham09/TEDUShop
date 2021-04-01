@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aZdfJ2YDwGX7K+A+vB1VLhoitrO//T6ioH4q0b3te2HtaEvzv1l/cO1mnMMobIRFXhGtm3WXmPBVxaUv1Kneg==",
+  "success": true,
+  "projectFilePath": "d:\\Ki 8\\KTHDV+QLDA+DA\\WebApi\\TEDUShop\\TEDUShop\\TEDUShop.Model\\TEDUShop.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAPTOP64\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\LAPTOP64\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP64\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

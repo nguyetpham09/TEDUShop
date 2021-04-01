@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\TEDUShop.Common\TEDUShop.Common.csproj" />
+    <ProjectReference Include="..\TEDUShop.Data\TEDUShop.Data.csproj" />
+    <ProjectReference Include="..\TEDUShop.Service\TEDUShop.Service.csproj" />
+    <ProjectReference Include="..\TEDUShop.Model\TEDUShop.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>

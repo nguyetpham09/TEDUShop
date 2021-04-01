@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7CDSIolv4pbgEFmUEp6l6mV24mun29IkI8mWDeJaGPovDE9HdO8c5tSJK6WSvNgFgv54yelwRoFkE3Yo8fNBPQ==",
+  "success": true,
+  "projectFilePath": "D:\\Ki 8\\KTHDV+QLDA+DA\\WebApi\\TEDUShop\\TEDUShop\\TEDUShop.Service\\TEDUShop.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAPTOP64\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP64\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
